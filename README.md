@@ -1,5 +1,5 @@
 ## 👋
-🔭 I’m currently studying Computer Engineering @[TEC](https://www.tec.ac.cr/)
+🔭 I’m currently studying Computer Science/Comp. Engineering @[TEC](https://www.tec.ac.cr/)
 ### 🌱 Learning skills and programming languages such as
 [![Learning](https://skillicons.dev/icons?i=github,git,py,pycharm,latex,figma)](https://skillicons.dev)
 ### Proficient in
