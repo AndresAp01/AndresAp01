@@ -1,6 +1,6 @@
 ## 👋
-🔭 I’m currently studying Computer Science/Comp. Engineering @[TEC](https://www.tec.ac.cr/)
-### 🌱 Learning skills and programming languages such as
+🔭 I’m currently studying Computer Science/Engineering @[TEC](https://www.tec.ac.cr/)
+### 🌱 Learning skills and programming languages such as:
 [![Learning](https://skillicons.dev/icons?i=github,git,latex,figma,c,cpp,clion,idea,java)](https://skillicons.dev)
 ### Proficient in
 [![OS](https://skillicons.dev/icons?i=apple,windows,linux,py,pycharm)](https://skillicons.dev)
@@ -10,7 +10,7 @@
 
 ## 👋
 🔭 Estudio Ingeniería en Computacion en el @[TEC](https://www.tec.ac.cr/)
-### 🌱 Aprendiendo estas habilidades y lenguajes
+### 🌱 Aprendiendo habilidades y lenguajes como:
 [![Learning](https://skillicons.dev/icons?i=github,git,latex,figma,c,cpp,clion,idea,java)](https://skillicons.dev)
 ### Sé manejar
 [![OS](https://skillicons.dev/icons?i=apple,windows,linux,py,pycharm)](https://skillicons.dev)
