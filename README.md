@@ -1,7 +1,7 @@
 ## 👋
 🔭 I’m currently studying Computer Science/Engineering @[TEC](https://www.tec.ac.cr/)
 ### 🌱 Learning skills and programming languages such as:
-[![Learning](https://skillicons.dev/icons?i=github,git,rust)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=github,git,latex,figma,rust,docker)](https://skillicons.dev)
 ### Proficient in
 [![OS](https://skillicons.dev/icons?i=apple,windows,linux,c,cpp,clion,java,idea,py,pycharm,latex,figma)](https://skillicons.dev)
 ### Reach me on:
@@ -13,7 +13,7 @@
 ## 👋
 🔭 Estudio Ingeniería en Computacion en el @[TEC](https://www.tec.ac.cr/)
 ### 🌱 Aprendiendo habilidades y lenguajes como:
-[![Learning](https://skillicons.dev/icons?i=github,git,latex,figma,rust)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=github,git,latex,figma,rust,docker)](https://skillicons.dev)
 ### Sé manejar
 [![OS](https://skillicons.dev/icons?i=apple,windows,linux,c,cpp,clion,java,idea,py,pycharm,latex,figma)](https://skillicons.dev)
 ### Puedes encontrarme aquí:
